@@ -1,0 +1,80 @@
+/* *** MAIN COLOR: #25B8E2 *** */
+
+::selection {background:#25B8E2;}
+::-moz-selection {background:#25B8E2;}
+
+.skill_div,
+.ui-slider-range {
+	background-color:#25B8E2;
+}
+blockquote.type2:before {
+	background-color:#25B8E2!important;
+}
+
+.main_wrapper nav ul.menu > li > .sub-menu > li:hover > a,
+.main_wrapper nav ul.menu > li > .sub-menu > li.current-menu-parent > a,
+.main_wrapper nav ul.menu > li > .sub-menu > li.current-menu-item > a,
+.fixed-menu-wrapper ul.menu > li > .sub-menu > li:hover > a,
+.fixed-menu-wrapper ul.menu > li > .sub-menu > li.current-menu-parent > a,
+.fixed-menu-wrapper ul.menu > li > .sub-menu > li.current-menu-item > a,
+.widget_about .signature .author,
+a,
+.shortcode_accordion_item_title.ui-state-active,
+.shortcode_toggles_item_title.ui-state-active,
+.shortcode_accordion_item_title:hover, 
+.shortcode_toggles_item_title:hover,
+.shortcode_iconbox:hover .ico,
+.shortcode_iconbox:hover .iconbox_title,
+.carouselslider ul li .carousel_title h6 a:hover,
+.testimonials_list li .testimonials_text span.author,
+.widget_nav_menu ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_categories ul li a:hover,
+.widget_recent_entries ul li a:hover,
+.most_popular .price_item_title h2,
+.most_popular .price_item_cost h1,
+.most_popular .price_item_cost h1 span,
+blockquote span.author,
+.dropcap.colored,
+.pagerblock li a:hover,
+.pagerblock li a.current,
+.blog_info_block .blog_time a:hover,
+.blog_info_block .blog_url a:hover,
+.blog_info_block .blog_tags2 a:hover,
+.blog_info_block .post_type a:hover,
+.blog_info_block .blog_author a:hover,
+.blog_info_block .blog_date a:hover,
+.blog_info_block .blog_categ a:hover,
+.blog_info_block .blog_comments a:hover,
+.blog_info_block .blog_tags a:hover,
+.shop_list_price,
+.total_price span,
+.product_title_price,
+.review_body a {
+	color:#25B8E2;
+}
+.main_wrapper nav ul.menu li .sub-menu li .sub-menu li:hover > a,
+.main_wrapper nav ul.menu li .sub-menu li .sub-menu li.current-menu-parent > a,
+.main_wrapper nav ul.menu li .sub-menu li .sub-menu li.current-menu-item > a,
+.fixed-menu-wrapper ul.menu li .sub-menu li .sub-menu li:hover > a,
+.fixed-menu-wrapper ul.menu li .sub-menu li .sub-menu li.current-menu-parent > a,
+.fixed-menu-wrapper ul.menu li .sub-menu li .sub-menu li.current-menu-item > a,
+.mobile_menu li:hover > a,
+.mobile_menu li.current-menu-parent > a,
+.mobile_menu li.current-menu-item > a,
+.most_popular .price_item_btn a,
+.continfo_item a:hover,
+.shop_list_title a:hover,
+.dropdown li.selected,
+.dropdown li.sel {
+	color:#25B8E2!important;
+}
+
+header,
+hr.colored {
+	border-color:#25B8E2;
+}
+.class {
+	border-color:#25B8E2!important;
+}
